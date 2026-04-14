@@ -5,6 +5,9 @@ This is a simple Python program that generates a random password using letters a
 ## Features
 - User-defined password length
 - Random password generation
-
 ## How to run
 python password.py
+## Tech Used
+- Python
+- random module
+- string module
