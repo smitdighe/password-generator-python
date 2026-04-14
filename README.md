@@ -1,5 +1,4 @@
 # Password Generator (Python)
-
 This is a simple Python program that generates a random password using letters and numbers.
 
 ## Features
